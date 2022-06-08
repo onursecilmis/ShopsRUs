@@ -15,3 +15,8 @@ The following discounts apply:
 Write a program in a programming language of your choice with test cases such that given a bill, it finds the net payable amount.
 Create an RESTful API which when given a bill it returns the final invoice amount including the discount. 
 Please note the stress is on object oriented approach and test coverage. User interface is not required. 
+
+
+ShopsRUs diagram
+
+<img width="720" alt="ShopsRUsDiagram" src="https://user-images.githubusercontent.com/40696581/172736537-b05fe744-55ba-4648-a370-99528ab05c66.png">

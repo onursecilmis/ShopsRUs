@@ -1,0 +1,14 @@
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/bin/Debug/net6.0/ShopsRUs.Core.deps.json
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/bin/Debug/net6.0/ShopsRUs.Core.runtimeconfig.json
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/bin/Debug/net6.0/ShopsRUs.Core.dll
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/bin/Debug/net6.0/ShopsRUs.Core.pdb
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/ShopsRUs.Core.csproj.AssemblyReference.cache
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/ShopsRUs.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/ShopsRUs.Core.AssemblyInfoInputs.cache
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/ShopsRUs.Core.AssemblyInfo.cs
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/ShopsRUs.Core.csproj.CoreCompileInputs.cache
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/ShopsRUs.Core.dll
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/refint/ShopsRUs.Core.dll
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/ShopsRUs.Core.pdb
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/ShopsRUs.Core.genruntimeconfig.cache
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Core/obj/Debug/net6.0/ref/ShopsRUs.Core.dll

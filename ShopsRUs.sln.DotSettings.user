@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/onursecilmis/Library/Caches/JetBrains/Rider2021.3/resharper-host/temp/Rider/vAny/CoverageData/_ShopsRUs.-1199785002/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0aabe902_002D9aea_002D4038_002Dbbb2_002D02e2a1cd473a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;E162A215-58C8-4B1A-8952-80AD7CD883E4/f:UnitTest1.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::E162A215-58C8-4B1A-8952-80AD7CD883E4::net6.0::ShopsRUs.Test.InvoiceServiceTest.Test&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::E162A215-58C8-4B1A-8952-80AD7CD883E4::net6.0::ShopsRUs.Test.InvoiceServiceTest.GetInvoiceNullTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=587ac452_002Dadc3_002D4eb1_002D96a6_002D4b43e2295e84/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetInvoiceNullTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E162A215-58C8-4B1A-8952-80AD7CD883E4::net6.0::ShopsRUs.Test.InvoiceServiceTest.GetInvoiceNullTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=76e5a6bf_002Def13_002D4587_002D9d80_002Da0ae1bd0a883/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetInvoiceNullTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

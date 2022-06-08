@@ -1,0 +1,15 @@
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/ShopsRUs.Data.csproj.AssemblyReference.cache
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/ShopsRUs.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/ShopsRUs.Data.AssemblyInfoInputs.cache
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/ShopsRUs.Data.AssemblyInfo.cs
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/ShopsRUs.Data.csproj.CoreCompileInputs.cache
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/bin/Debug/net6.0/ShopsRUs.Data.deps.json
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/bin/Debug/net6.0/ShopsRUs.Data.dll
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/bin/Debug/net6.0/ShopsRUs.Data.pdb
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/ShopsRUs.Data.dll
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/refint/ShopsRUs.Data.dll
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/ShopsRUs.Data.pdb
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/ref/ShopsRUs.Data.dll
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/bin/Debug/net6.0/ShopsRUs.Core.dll
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/bin/Debug/net6.0/ShopsRUs.Core.pdb
+/Users/onursecilmis/Desktop/ShopsRUs/ShopsRUs.Data/obj/Debug/net6.0/ShopsRUs.Data.csproj.CopyComplete
